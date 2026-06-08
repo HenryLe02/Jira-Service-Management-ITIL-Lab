@@ -17,6 +17,8 @@ A small business requires a structured service desk process to manage user suppo
 
 To simulate this environment, I used Jira Service Management to create realistic support tickets based on common workplace issues. Each ticket followed an ITIL-style workflow, including incident logging, prioritisation, troubleshooting, internal documentation, resolution, and closure.
 
+<img width="1722" height="648" alt="image" src="https://github.com/user-attachments/assets/e24f994d-c656-4a87-9bcc-cd39be8be9b1" />
+
 ---
 
 ## Environment & Tools Used
