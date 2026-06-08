@@ -49,9 +49,7 @@ To simulate this environment, I used Jira Service Management to create realistic
 
 ## Full Documentation
 
-A full project document is included in this repository for detailed screenshots, troubleshooting notes, and ticket resolution workflows.
-
-[Project 2 - Ticketing System with ITIL.docx](docs/Project-2-Ticketing-System-with-ITIL.docx)
+📄 [View Full Project Documentation](docs/Project-2-Ticketing-System-with-ITIL.pdf)
 
 ---
 
