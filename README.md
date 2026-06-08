@@ -49,7 +49,7 @@ To simulate this environment, I used Jira Service Management to create realistic
 
 ## Full Documentation
 
-📄 [View Full Project Documentation](docs/Project-2-Ticketing-System-with-ITIL.pdf)
+📄 [View Full Project Documentation](./Project-2-Ticketing-System-with-ITIL.pdf)
 
 ---
 
